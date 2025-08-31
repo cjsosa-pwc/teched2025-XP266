@@ -49,10 +49,10 @@ To complete the exercises in this repository, please make sure that you meet the
   * [Exercise 5.0 - Check the Pipeline Job Status](exercises/ex5#Exercise-5.1---Check-the-Pipeline-Job-Status)
   * [Exercise 5.1 - Verify Transports created in SAP Cloud Transport Management](exercises/ex5#Exercise-5.2---Verify-Transports-created-in-SAP-Cloud-Transport-Management)
 
-* #### Exercise 6 - Manage your Feature in Cloud ALM & Deployment
-  * [Exercise 6.0 - Manage the lifefcylce of your feature](exercises/ex6#Exercise-6.1---Manage-the-lifefcylce-of-your-feature)
-  * [Exercise 6.1 - Deploy and monitor changes in your QA and Prod environment](exercises/ex6#Exercise-6.2---Deploy-and-monitor-changes-in-your-QA-and-Prod-environment)
-  * [Exersice 6.2 - Find and access the deployed applications](exercises/ex6#Exercise-6.3---Find-and-access-the-deployed-applications)
+* #### [Exercise 6 - Manage your Feature in Cloud ALM & Deployment](exercises/ex6#exercise-6---manage-your-feature-in-cloud-alm--deployment)
+  * [Exercise 6.0 - Manage the lifefcylce of your feature](exercises/ex6#Exercise-6.0---Manage-the-lifefcylce-of-your-feature)
+  * [Exercise 6.1 - Deploy and monitor changes in your QA and Prod environment](exercises/ex6#Exercise-6.1---Deploy-and-monitor-changes-in-your-QA-and-Prod-environment)
+  * [Exersice 6.2 - Find and access the deployed applications](exercises/ex6#Exercise-6.2---Find-and-access-the-deployed-applications)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
