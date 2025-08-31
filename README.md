@@ -33,7 +33,7 @@ To complete the exercises in this repository, please make sure that you meet the
 
 #### [Exercise 2 - Maintain your Feature in Cloud ALM](exercises/ex2#Exercise-2---Maintain-your-Feature-in-Cloud-ALM)
 - [Exercise 2.0 - Check your Cloud ALM and cTMS configuration](exercises/ex2#Exercise-2.1---CCheck-your-Cloud-ALM-and-cTMS-configuration)
-- [Exercice 2.1 - Create a new Feature](exercises/ex2#Exercice-2.2---Create-a-new-Feature)
+- [Exercice 2.1 - Create a new Feature](exercises/ex2#Exercise-2.2---Create-a-new-Feature)
 
 #### Exercise 3 - Develop your pro-code application
 - [Exercise 3.1 - Create a new Development Project in SAP Build](exercises/ex3#Exercise-3.1---Create-a-new-Development-Project-in-SAP-Build)
