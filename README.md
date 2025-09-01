@@ -34,19 +34,19 @@ To complete the exercises in this repository, please make sure that you meet the
   * [Exercise 2.0 - Check your Cloud ALM and cTMS configuration](exercises/ex2#exercise-20---check-your-cloud-alm-and-ctms-configuration)
   * [Exercice 2.1 - Create a new Feature](exercises/ex2#exercise-21---create-a-new-feature)
 
-* #### Exercise 3 - Develop your pro-code application
-  * [Exercise 3.0 - Create a new Development Project in SAP Build](exercises/ex3#Exercise-3.1---Create-a-new-Development-Project-in-SAP-Build)
-  * [Exercise 3.1 - Use SAP Business Applicaiton Studio and Joule and improve your application](exercises/ex3#Exercise-3.2---Use-SAP-Business-Applicaiton-Studio-and-Joule-and-improve-your-Application)
-  * [Exercise 3.2 - Release your Changes to GitHub](exercises/ex3#Exercise-3.3---Release-your-Changes-to-GitHub)
+* #### [Exercise 3 - Develop your pro-code application](exercises/ex3#develop-your-pro-code-application)
+  * [Exercise 3.0 - Create a new Development Project in SAP Build](exercises/ex3#exercise-30---create-a-new-development-project-in-sap-build)
+  * [Exercise 3.1 - Use SAP Business Applicaiton Studio and Joule and improve your application](exercises/ex3#exercise-31---use-sap-business-applicaiton-studio-and-joule-and-improve-your-application)
+  * [Exercise 3.2 - Release your Changes to GitHub](exercises/ex3#exercise-32---release-your-changes-to-github)
 
-* #### Exercise 4 - Transport your low-code application
-  * [Exercise 4.0 - Setup SAP Content Agent Service](exercises/ex4#Exercise-4.1---Setup-SAP-Content-Agent-Service)
-  * [Exercise 4.1 - Check your application in mobile services](exercises/ex4#Exercise-4.2---Check-your-application-in-mobile-services)
-  * [Exercise 4.2 - Create and send a Transport Request in SAP Content Agent Service UI](exercises/ex4#Exercise-4.3---Create-and-send-a-Transport-Request-in-SAP-Content-Agent-Service-UI)
+* #### [Exercise 4 - Transport your low-code application](exercises/ex4#transport-your-low-code-application)
+  * [Exercise 4.0 - Setup SAP Content Agent Service](exercises/ex4#exercise-40---setup-sap-content-agent-service)
+  * [Exercise 4.1 - Check your application in mobile services](exercises/ex4#exercise-41---check-your-application-in-mobile-services)
+  * [Exercise 4.2 - Create and send a Transport Request in SAP Content Agent Service UI](exercises/ex4#exercise-42---create-and-send-a-transport-request-in-sap-content-agent-service-ui)
 
-* #### Exercise 5 - Verify all Release Steps
-  * [Exercise 5.0 - Check the Pipeline Job Status](exercises/ex5#Exercise-5.1---Check-the-Pipeline-Job-Status)
-  * [Exercise 5.1 - Verify Transports created in SAP Cloud Transport Management](exercises/ex5#Exercise-5.2---Verify-Transports-created-in-SAP-Cloud-Transport-Management)
+* #### [Exercise 5 - Verify all Release Steps](exercises/ex5#verify-all-release-steps)
+  * [Exercise 5.0 - Check the Pipeline Job Status](exercises/ex5#exercise-50---check-the-pipeline-job-status)
+  * [Exercise 5.1 - Verify Transports created in SAP Cloud Transport Management](exercises/ex5#exercise-51---verify-transports-created-in-sap-cloud-transport-management)
 
 * #### [Exercise 6 - Manage your Feature in Cloud ALM & Deployment](exercises/ex6#exercise-6---manage-your-feature-in-cloud-alm--deployment)
   * [Exercise 6.0 - Manage the lifefcylce of your feature](exercises/ex6#exercise-60---manage-the-lifefcylce-of-your-feature)
