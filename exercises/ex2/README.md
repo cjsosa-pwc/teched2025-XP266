@@ -6,14 +6,14 @@ In this exercise, we will check whether the connection between SAP Cloud ALM and
 
 1. Go to the BTP Cockpit of your SAP Cloud ALM subaccount.
 2. Open the Destinations view (to be found in the Connectivity area in the navigation pane).
-3. Search for destination CALM_FTR_CTMS_<Account_ID>
+3. Search for destination CALM_FTR_CTMS_XP266-0XX. (use your hands-on session user e.g. XP266-001) 
 4. Click Check Connection. The result shall be "HTTP request to destination succeeded".
  
 ## Exercise 2.1 - Create a new Feature
 
 1. Open SAP Cloud ALM.
 2. Go to the Features application.
-3. Select your project named ...
+3. Select your project named SAP TechEd Hands-on XP266-0XX 
 4. Click Create in the top right corner.
 5. Add a meaningful name to your Feature.
 6. Add a Description.
