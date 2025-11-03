@@ -1,5 +1,7 @@
 # XP266 - Experience how to govern the delivery of content in SAP Build solutions
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2025-XP266)](https://api.reuse.software/info/github.com/SAP-samples/teched2025-XP266)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2025 session called XP266 - Experience how to govern the delivery of content in SAP Build solutions.  
